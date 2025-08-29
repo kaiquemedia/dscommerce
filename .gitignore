@@ -1,0 +1,24 @@
+# Arquivos compilados
+*.class
+
+# Diretórios de build
+/build/
+/out/
+/target/
+
+# Arquivos de log
+*.log
+
+# Arquivos grandes e binários
+*.jar
+*.zip
+*.tar.gz
+
+# Configurações de IDEs
+.idea/
+*.iml
+.vscode/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
