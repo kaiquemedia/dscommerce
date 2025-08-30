@@ -1,4 +1,4 @@
-package com.devsuperior.dscommerce.repositores;
+package com.devsuperior.dscommerce.repositories;
 
 import com.devsuperior.dscommerce.entities.Product;
 import org.springframework.data.domain.Page;
